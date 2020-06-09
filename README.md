@@ -1,2 +1,2 @@
 # Calculator-using-python
-This helps you to do some mathmathical calculation in a easy way.
+This helps to do some mathmathical calculation in a very easy manner.
