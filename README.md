@@ -1,2 +1,4 @@
 # Calculator-using-python
-This helps to do some mathmathical calculation in a very easy manner.
+This calculator perform basic calculations such as Addition , Substraction , Division , Multiplicaton.
+It also contains the squareroot function, Square function , Cube function and exponential function.
+You can easily perform integer as well as float calculations in this calculator.
